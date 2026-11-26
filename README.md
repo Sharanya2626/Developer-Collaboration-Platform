@@ -343,3 +343,4 @@ GEMINI_MODEL=gemini-1.5-flash
 
 Built as an enterprise-grade developer collaboration platform.
 Licensed under the [MIT License](LICENSE).
+Project demonstration: Employee Management System workspace created in DevCollab.
